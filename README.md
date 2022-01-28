@@ -5,5 +5,5 @@ The data set for this classification problem is taken from Kaggle.(https://www.k
 
 ## Used Random Forest Classifier
 
-**Accuracy Score on Test**: 0.7874911158493249
+**Accuracy Score on Test**: 0.7874911158493249 <br>
 **Accuracy Score on Train**: 0.8778666666666667
